@@ -1,9 +1,5 @@
 /*
-THIS CODE HAS BEEN TESTED AND IS FULLY OPERATIONAL.
-
 Problem Statement: A book consists of chapters, chapters consist of sections and sections consist of subsections. Construct a tree and print the nodes. Find the time and space requirements of your method.
-
-Code from DataStructuresAndAlgorithms (SPPU - Second Year - Computer Engineering - Content) repository on KSKA Git: https://git.kska.io/sppu-se-comp-content/DataStructuresAndAlgorithms/
 */
 
 // BEGINNING OF CODE
